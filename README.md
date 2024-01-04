@@ -1,6 +1,8 @@
 # Quokka
 Quokka: An Open-source Large Language Model ChatBot for Material Science
 
+link: https://arxiv.org/pdf/2401.01089.pdf
+
 # Models can be downloaded at:
 https://huggingface.co/Xianjun/PLLaMa-7b-base
 
