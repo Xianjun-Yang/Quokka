@@ -17,10 +17,10 @@ https://huggingface.co/Xianjun/Quokka-13b-instruct
 If you find Quokka useful in your research, please cite the following paper:
 
 ```latex
-@inproceedings{Yang2024QuokkaAO,
+@article{yang2024quokka,
   title={Quokka: An Open-source Large Language Model ChatBot for Material Science},
-  author={Xianjun Yang and Stephen Wilson and Linda Ruth Petzold},
-  year={2024},
-  url={https://api.semanticscholar.org/CorpusID:266725577}
+  author={Yang, Xianjun and Wilson, Stephen D and Petzold, Linda},
+  journal={arXiv preprint arXiv:2401.01089},
+  year={2024}
 }
 ```
